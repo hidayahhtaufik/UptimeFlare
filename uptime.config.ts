@@ -1,8 +1,8 @@
 const pageConfig = {
-  title: "lyc8503's Status Page",
+  title: "Story Uptime",
   links: [
-    { link: 'https://github.com/lyc8503', label: 'GitHub' },
-    { link: 'mailto:me@lyc8503.site', label: 'Email Me', highlight: true },
+    { link: 'https://github.com/hidayahhtaufik', label: 'GitHub' },
+    { link: 'mailto:hidayahhtaufik12@gmail.com', label: 'Email Me', highlight: true },
   ],
 }
 
