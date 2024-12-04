@@ -11,10 +11,10 @@ const workerConfig = {
   // passwordProtection: 'username:password',
   monitors: [
     {
-      id: 'google_monitor',
-      name: 'My Google Monitor',
+      id: 'story_validator_uptime',
+      name: 'Story Validator Uptime',
       method: 'GET',
-      target: 'https://www.google.com'
+      target: 'https://api.testnet.storyscan.app/utilities/validators-uptimes?blocksCount=70'
     },
     {
       id: 'ssh_monitor',
