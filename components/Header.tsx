@@ -23,7 +23,7 @@ export default function Header() {
         <div>
           <a href="https://github.com/lyc8503/UptimeFlare" target="_blank">
             <Text size="xl" span>
-              🕒
+              🚀
             </Text>
             <Text
               size="xl"
@@ -32,7 +32,7 @@ export default function Header() {
               variant="gradient"
               gradient={{ from: 'blue', to: 'cyan', deg: 90 }}
             >
-              UptimeFlare
+              Auranode
             </Text>
           </a>
         </div>
